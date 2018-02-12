@@ -91,4 +91,4 @@ should return all of the Allergen instances
 ### `**Bonus**`
 - `User#safe_recipes`
 should return all recipes that do not contain ingredients the user is allergic to
-- What other methods might be useful to have?
+- What other methods might be useful to have? *** #reject ??? ***
